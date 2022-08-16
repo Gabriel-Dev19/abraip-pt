@@ -301,6 +301,183 @@ const routes = [
         component: () => import('../components/estados/Lisboa/cidades/Vila-Franca-de-Xira.vue')
       }
     ]
+  },
+  {
+    path: '/detetive-particular-em-Portalegre',
+    component: () => import('../components/estados/Portalegre/RouterViewPortalegre.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Portalegre/Portalegre.vue')
+      },
+      {
+        path: '/detetive-particular-em-Portalegre/detetive-particular-em-Portalegre',
+        component: () => import('../components/estados/Portalegre/cidades/Portalegre.vue')
+      }
+    ]
+  },
+  {
+    path: '/detetive-particular-em-Porto',
+    component: () => import('../components/estados/Porto/RouterViewPorto.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Porto/Porto.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Amarante',
+        component: () => import('../components/estados/Porto/cidades/Amarante.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Felgueiras',
+        component: () => import('../components/estados/Porto/cidades/Felgueiras.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Gondomar',
+        component: () => import('../components/estados/Porto/cidades/Gondomar.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Lousada',
+        component: () => import('../components/estados/Porto/cidades/Lousada.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Maia',
+        component: () => import('../components/estados/Porto/cidades/Maia.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Marco-de-Canaveses',
+        component: () => import('../components/estados/Porto/cidades/Marco-de-Canaveses.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Matosinhos',
+        component: () => import('../components/estados/Porto/cidades/Matosinhos.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Pacos-de-Ferreira',
+        component: () => import('../components/estados/Porto/cidades/Pacos-de-Ferreira.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Paredes',
+        component: () => import('../components/estados/Porto/cidades/Paredes.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Penafiel',
+        component: () => import('../components/estados/Porto/cidades/Penafiel.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Porto',
+        component: () => import('../components/estados/Porto/cidades/Porto.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Povoa-de-Varzim',
+        component: () => import('../components/estados/Porto/cidades/Povoa-de-Varzim.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Santa-Maria-de-Feira',
+        component: () => import('../components/estados/Porto/cidades/Santa-Maria-de-Feira.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Santo-Tirso',
+        component: () => import('../components/estados/Porto/cidades/Santo-Tirso.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Valongo',
+        component: () => import('../components/estados/Porto/cidades/Valongo.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Vila-do-Conde',
+        component: () => import('../components/estados/Porto/cidades/Vila-do-Conde.vue')
+      },
+      {
+        path: '/detetive-particular-em-Porto/detetive-particular-em-Vila-Nova-de-Gaia',
+        component: () => import('../components/estados/Porto/cidades/Vila-Nova-de-Gaia.vue')
+      }
+    ]
+  },
+  {
+    path: '/detetive-particular-em-Santarem',
+    component: () => import('../components/estados/Santarem/RouterViewSantarem.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Santarem/Santarem.vue')
+      },
+      {
+        path: '/detetive-particular-em-Santarem/detetive-particular-em-Ourem',
+        component: () => import('../components/estados/Santarem/cidades/Ourem.vue')
+      },
+      {
+        path: '/detetive-particular-em-Santarem/detetive-particular-em-Santarem',
+        component: () => import('../components/estados/Santarem/cidades/Santarem.vue')
+      }
+    ]
+  },
+  {
+    path: '/detetive-particular-em-Setubal',
+    component: () => import('../components/estados/Setubal/RouterViewSetubal.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Setubal/Setubal.vue')
+      },
+      {
+        path: '/detetive-particular-em-Setubal/detetive-particular-em-Seixal',
+        component: () => import('../components/estados/Setubal/cidades/Seixal.vue')
+      },
+      {
+        path: '/detetive-particular-em-Setubal/detetive-particular-em-Setubal',
+        component: () => import('../components/estados/Setubal/cidades/Setubal.vue')
+      }
+    ]
+  },
+  {
+    path: '/detetive-particular-em-Viana-do-Castelo',
+    component: () => import('../components/estados/Viana-do-Castelo/RouterViewVianaDoCastelo.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Viana-do-Castelo/Viana-do-Castelo.vue')
+      },
+      {
+        path: '/detetive-particular-em-Viana-do-Castelo/detetive-particular-em-Viana-do-Castelo',
+        component: () => import('../components/estados/Viana-do-Castelo/cidades/Viana-do-Castelo.vue')
+      }
+    ]
+  },
+  {
+    path: '/detetive-particular-em-Vila-Real',
+    component: () => import('../components/estados/Vila-Real/RouterViewVilaReal.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Vila-Real/Vila-Real.vue')
+      },
+      {
+        path: '/detetive-particular-em-Vila-Real/detetive-particular-em-Vila-Real',
+        component: () => import('../components/estados/Vila-Real/cidades/Vila-Real.vue')
+      }
+    ]
+  },
+  {
+    path: '/detetive-particular-em-Viseu',
+    component: () => import('../components/estados/Viseu/RouterViewViseu.vue'),
+    children: [
+      // Cidades A
+      {
+        path: '/',
+        component: () => import('../components/estados/Viseu/Viseu.vue')
+      },
+      {
+        path: '/detetive-particular-em-Viseu/detetive-particular-em-Viseu',
+        component: () => import('../components/estados/Viseu/cidades/Viseu.vue')
+      }
+    ]
   }
 ]
 

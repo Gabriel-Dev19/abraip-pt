@@ -1,10 +1,10 @@
 <template>
     <div>
         <div class="container">
-            <h1 class="text-center fs-xs-30 px-xs-4">Detetive particular em Aveiro</h1>
+            <h1 class="text-center fs-xs-30 px-xs-4">Detetive particular em Santarém</h1>
             <article class="col-lg-11 px-0 mx-auto fs-sm-17 text-center mt-4 fw-500">
-                Precisando de <b>Detetive Particular para sua Empresa</b> em <b>Aveiro?</b>
-                A ABRAIP Detetives está em <b>Aveiro</b> para poder lhe ajudar.
+                Precisando de <b>Detetive Particular para sua Empresa</b> em <b>Santarém?</b>
+                A ABRAIP Detetives está em <b>Santarém</b> para poder lhe ajudar.
                 Somos especializados em <b>casos empresarias, contra inteligência empresarial, varredura inteligente e verificação da conduta de sócios e/ou funcionários,</b> sempre executando nossos serviços de forma rápida, discreta e sigilosa, ajustados de acordo com a necessidade, exigência e orçamento de cada cliente. Não importa a complexidade do seu caso, nossos detetives estão preparados para atender sua demanda de forma <b>eficaz e profissional,</b> proporcionando assim o esclarecimento de suas dúvidas, a satisfação e a paz de espírito que você necessita e merece.
             </article>
             <div class="d-flex justify-content-center row mx-auto mt-30">
@@ -12,29 +12,8 @@
                 <BtnFaleNoWhatsapp class="mt-xs-2 col-xs-10 ml-sm-3"/>
             </div>
             <h5 class="text-dark fw-600 mt-70 mb-1 d-flex justify-content-center">
-              Localidades Atendidas
+              Localidades atendidas
             </h5>
-            <section class="pt-20">
-              <div class="container px-0">
-                <!-- Cidades A -->
-                <div class="position-relative overflow-hidden mt-10 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
-                    <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
-                        <h5 class="text-dark fw-600 mb-1">
-                            A
-                        </h5>
-                    </div>
-                    <div class="borda-top-preto-separation"></div>
-                    <div class="col-lg px-0 mt-4">
-                        <a @click.prevent="Agueda" class="d-flex col-auto px-0 mt-1 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center">
-                            <i class="fa fa-angle-right fw-300 fs-25 mr-1"></i> Águeda
-                        </a>
-                        <a @click.prevent="Aveiro" class="d-flex col-auto px-0 mt-1 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center">
-                            <i class="fa fa-angle-right fw-300 fs-25 mr-1"></i> Aveiro
-                        </a>
-                    </div>
-                </div>
-              </div>
-            </section>
             <section class="pt-20">
               <div class="container px-0">
                 <!-- Cidades A -->
@@ -46,11 +25,26 @@
                     </div>
                     <div class="borda-top-preto-separation"></div>
                     <div class="col-lg px-0 mt-4">
-                        <a @click.prevent="OliveiraDeAzemeis" class="d-flex col-auto px-0 mt-1 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center">
-                            <i class="fa fa-angle-right fw-300 fs-25 mr-1"></i> Oliveira de Azeméis
+                        <a @click.prevent="Ourem" class="d-flex col-auto px-0 mt-1 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center">
+                            <i class="fa fa-angle-right fw-300 fs-25 mr-1"></i> Ourém
                         </a>
-                        <a @click.prevent="Ovar" class="d-flex col-auto px-0 mt-1 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center">
-                            <i class="fa fa-angle-right fw-300 fs-25 mr-1"></i> Ovar
+                    </div>
+                </div>
+              </div>
+            </section>
+            <section class="pt-20">
+              <div class="container px-0">
+                <!-- Cidades A -->
+                <div class="position-relative overflow-hidden mt-10 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+                    <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
+                        <h5 class="text-dark fw-600 mb-1">
+                            S
+                        </h5>
+                    </div>
+                    <div class="borda-top-preto-separation"></div>
+                    <div class="col-lg px-0 mt-4">
+                        <a @click.prevent="Santarem" class="d-flex col-auto px-0 mt-1 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center">
+                            <i class="fa fa-angle-right fw-300 fs-25 mr-1"></i> Santarém
                         </a>
                     </div>
                 </div>
@@ -68,32 +62,16 @@ export default {
     BtnFaleNoWhatsapp
   },
   methods: {
-    Agueda () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Agueda')
+    Ourem () {
+      this.$router.push('/detetive-particular-em-Santarem/detetive-particular-em-Ourem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -120
       })
     },
-    Aveiro () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Aveiro')
-      this.$smoothScroll({
-        scrollTo: document.getElementById('sobre'),
-        duration: 500,
-        offset: -120
-      })
-    },
-    OliveiraDeAzemeis () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Oliveira-de-Azemeis')
-      this.$smoothScroll({
-        scrollTo: document.getElementById('sobre'),
-        duration: 500,
-        offset: -120
-      })
-    },
-    Ovar () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Ovar')
+    Santarem () {
+      this.$router.push('/detetive-particular-em-Santarem/detetive-particular-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

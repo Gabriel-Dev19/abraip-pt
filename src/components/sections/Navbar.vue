@@ -327,6 +327,10 @@ export default {
       this.$router.push('/detetive-particular-em-Portalegre')
       this.HideNav()
     },
+    Porto () {
+      this.$router.push('/detetive-particular-em-Porto')
+      this.HideNav()
+    },
     Santarem () {
       this.$router.push('/detetive-particular-em-Santarem')
       this.HideNav()
