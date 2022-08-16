@@ -62,32 +62,53 @@
                                         </button>
                                         <slide-up-down :active="ShowLocalidadesMobile" class="col-12 px-0" :duration="500">
                                             <div class="col-12 px-0">
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="SantaCatarina" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Santa Catarina
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Aveiro" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Aveiro
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Parana" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Paraná
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Braga" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Braga
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="RioGrandeDoSul" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Rio Grande do Sul
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Braganca" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Bragança
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="SaoPaulo" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    São paulo
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="CasteloBranco" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Castelo Branco
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="RioDeJaneiro" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Rio de Janeiro
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Coimbra" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Coimbra
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="MinasGerais" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Minas Gerais
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Evora" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Évora
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="DistritoFederal" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Distrito Federal
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Faro" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Faro
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="MatoGrossoDoSul" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Mato Grosso do Sul
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Guarda" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Guarda
                                                 </a>
-                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Goias" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
-                                                    Goiás
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Leiria" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Leiria
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Portalegre" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Portalegre
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Porto" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Porto
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Santarem" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Santarem
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Setubal" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Setúbal
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="VianaDoCastelo" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Viana do Castelo
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="VilaReal" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Vila Real
+                                                </a>
+                                                <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -130}" @click.prevent="Viseu" class="text-dark btn text-right py-1 col-12 px-0 fw-500">
+                                                    Viseu
                                                 </a>
                                             </div>
                                         </slide-up-down>
@@ -169,32 +190,56 @@
                             <transition enter-active-class="animate__animated animate__fadeIn">
                                 <div v-show="ShowDropdownLocalidades" class="dropdown-nav pt-10">
                                     <div class="col-12 bg-azul shadow px-10 py-10 rounded">
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="SantaCatarina" class="btn btn-outline-dark shadow-sm col-12 fw-600 text-center">
-                                            Santa Catarina
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Aveiro" class="btn btn-outline-dark shadow-sm col-12 fw-600 text-center">
+                                            Aveiro
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Parana" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Paraná
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Braga" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Braga
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="RioGrandeDoSul" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Rio Grande do Sul
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Braganca" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Bragança
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="SaoPaulo" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            São paulo
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="CasteloBranco" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Castelo Branco
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="RioDeJaneiro" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Rio de Janeiro
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Coimbra" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Coimbra
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="MinasGerais" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Minas Gerais
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Evora" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Évora
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="DistritoFederal" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Distrito Federal
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Faro" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Faro
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="MatoGrossoDoSul" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Mato Grosso do Sul
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Guarda" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Guarda
                                         </a>
-                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Goias" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
-                                            Goiás
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Leiria" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Leiria
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Lisboa" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Lisboa
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Portalegre" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Portalegre
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Porto" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Porto
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Santarem" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Santarem
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Setubal" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Setúbal
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="VianaDoCastelo" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Viana do Castelo
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="VilaReal" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Vila Real
+                                        </a>
+                                        <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Viseu" class="btn btn-outline-dark mt-10 shadow-sm col-12 fw-600 text-center">
+                                            Viseu
                                         </a>
                                     </div>
                                 </div>
@@ -237,42 +282,72 @@ export default {
       this.Shownav = false
       document.body.classList.remove('overflow-hidden')
     },
-    SantaCatarina () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina')
+    // <--------------- DISTRITOS --------------->
+    Aveiro () {
+      this.$router.push('/detetive-particular-em-Aveiro')
       this.HideNav()
     },
-    Parana () {
-      this.$router.push('/detetive-particular-no-Parana')
+    Braga () {
+      this.$router.push('/detetive-particular-em-Braga')
       this.HideNav()
     },
-    RioGrandeDoSul () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul')
+    Braganca () {
+      this.$router.push('/detetive-particular-em-Braganca')
       this.HideNav()
     },
-    SaoPaulo () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo')
+    CasteloBranco () {
+      this.$router.push('/detetive-particular-em-Castelo-Branco')
       this.HideNav()
     },
-    RioDeJaneiro () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro')
+    Coimbra () {
+      this.$router.push('/detetive-particular-em-Coimbra')
       this.HideNav()
     },
-    MinasGerais () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais')
+    Evora () {
+      this.$router.push('/detetive-particular-em-Evora')
       this.HideNav()
     },
-    DistritoFederal () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal')
+    Faro () {
+      this.$router.push('/detetive-particular-em-Faro')
       this.HideNav()
     },
-    MatoGrossoDoSul () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul')
+    Guarda () {
+      this.$router.push('/detetive-particular-em-Guarda')
       this.HideNav()
     },
-    Goias () {
-      this.$router.push('/detetive-particular-em-Goias')
+    Leiria () {
+      this.$router.push('/detetive-particular-em-Leiria')
       this.HideNav()
     },
+    Lisboa () {
+      this.$router.push('/detetive-particular-em-Lisboa')
+      this.HideNav()
+    },
+    Portalegre () {
+      this.$router.push('/detetive-particular-em-Portalegre')
+      this.HideNav()
+    },
+    Santarem () {
+      this.$router.push('/detetive-particular-em-Santarem')
+      this.HideNav()
+    },
+    Setubal () {
+      this.$router.push('/detetive-particular-em-Setubal')
+      this.HideNav()
+    },
+    VianaDoCastelo () {
+      this.$router.push('/detetive-particular-em-Viana-do-Castelo')
+      this.HideNav()
+    },
+    VilaReal () {
+      this.$router.push('/detetive-particular-em-Vila-Real')
+      this.HideNav()
+    },
+    Viseu () {
+      this.$router.push('/detetive-particular-em-Viseu')
+      this.HideNav()
+    },
+    // <--------------- DEMAIS PÁGINAS --------------->
     InvestigacaoEmpresarial () {
       this.$root.$emit('MudancaInvestigacaoEmpresarial')
       this.HideNav()
@@ -361,5 +436,9 @@ export default {
         top: 38px;
         right: 10px;
         width: 290px;
+    }
+    div.bg-azul {
+        overflow: auto;
+        height: 450px;
     }
 </style>

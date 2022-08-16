@@ -138,7 +138,7 @@
 </template>
 <script>
 export default {
-    metaInfo: {
+  metaInfo: {
     link: [
       { rel: 'alternate', href: 'https://abraip.com.br/politicas-de-privacidade', hreflang: 'x-default' },
       { rel: 'alternate', href: 'https://abraipdetectives.pt/politicas-de-privacidade', hreflang: 'pt-br' },
