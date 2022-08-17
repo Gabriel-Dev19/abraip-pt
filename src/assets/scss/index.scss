@@ -140,6 +140,11 @@ button:focus, .btn:focus{
     border-radius: 50%;
     border: var(--dark) 1px solid;
 }
+
+.modal-backdrop{
+    opacity: .5;
+}
+
 #termos .modal-body{
     padding-top: 7px !important;
 }
