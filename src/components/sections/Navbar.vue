@@ -189,7 +189,7 @@
                             Localidades <i class="fa fa-angle-down fs-21 ml-2 fw-400 text-azul"></i>
                             <transition enter-active-class="animate__animated animate__fadeIn">
                                 <div v-show="ShowDropdownLocalidades" class="dropdown-nav pt-10">
-                                    <div class="col-12 bg-azul shadow px-10 py-10 rounded">
+                                    <div class="col-12 bg-azul shadow px-10 py-10 rounded" style="max-height: 440px">
                                         <a href="#sobre" v-smooth-scroll="{duration: 500, offset: -100}" @click.prevent="Aveiro" class="btn btn-outline-dark shadow-sm col-12 fw-600 text-center">
                                             Aveiro
                                         </a>
@@ -261,7 +261,7 @@ export default {
       Shownav: false,
       ShowLogoNomes: true,
       ShowDropdownServicos: false,
-      ShowDropdownLocalidades: false,
+      ShowDropdownLocalidades: true,
       ShowServicosMobile: false,
       ShowLocalidadesMobile: false
     }
@@ -441,8 +441,7 @@ export default {
         right: 10px;
         width: 290px;
     }
-    div.bg-azul {
+    .dropdown-nav .bg-azul {
         overflow: auto;
-        height: 450px;
     }
 </style>

@@ -11,16 +11,16 @@
                 Fale com um de nossos especialistas em Matosinhos
             </h5>
             <div class="d-flex justify-content-center row mx-auto mt-20">
-                <BtnQuatroSete/>
+                <BtnScrollContato/>
             </div>
         </div>
     </div>
 </template>
 <script>
-import BtnQuatroSete from '../../../buttons/BtnQuatroSete'
+import BtnScrollContato from '../../../buttons/BtnScrollContato'
 export default {
   components: {
-    BtnQuatroSete
+    BtnScrollContato
   },
   metaInfo: {
     htmlAttrs: {
