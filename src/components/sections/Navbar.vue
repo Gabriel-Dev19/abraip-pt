@@ -261,7 +261,7 @@ export default {
       Shownav: false,
       ShowLogoNomes: true,
       ShowDropdownServicos: false,
-      ShowDropdownLocalidades: true,
+      ShowDropdownLocalidades: false,
       ShowServicosMobile: false,
       ShowLocalidadesMobile: false
     }
