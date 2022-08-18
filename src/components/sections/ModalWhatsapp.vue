@@ -24,7 +24,7 @@
       <div class="col-12 px-0 bg-white pb-25 overflow-hidden">
         <div class="d-flex justify-content-center">
           <div>
-            <a href="https://wa.me/5547988336355?text=Olá,+estou+visitando+o+site+da+ABRAIP+Detetives+e+gostaria+de+receber+mais+informações" target="_blank" class="d-flex mt-20 border-bottom px-20 pb-10 align-items-center no-underline" rel="noopener noreferrer">
+            <a href="https://wa.me/351913342032?text=Olá,+estou+visitando+o+site+da+ABRAIP+Detetives+e+gostaria+de+receber+mais+informações" target="_blank" class="d-flex mt-20 border-bottom px-20 pb-10 align-items-center no-underline" rel="noopener noreferrer">
               <i class="fab fa-whatsapp-square text-azul fs-42" />
               <div class="col text-dark">
                 <p class="fw-600 d-block fs-20 mb-0 col-12 px-0">+351 913 342 032</p>
