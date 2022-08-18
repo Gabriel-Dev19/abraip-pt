@@ -116,52 +116,26 @@
                 <h3 class="d-flex align-items-center mt-70">
                     <i class="fa fa-minus mr-3 fw-400 text-azul"></i> Telefones
                 </h3>
-                <div class="d-flex px-0 justify-content-center row mx-auto">
-                  <div class="col-sm-6 col-md-5 mt-xs-20 mt-sm-20 mt-lg-30 col-lg-auto px-0">
-                    <p class="mb-0 fw-500 mb-1 text-center">
-                      Florianópolis
-                    </p>
+                <div class="d-flex px-0 row mx-auto">
+                  <div class="col-sm-6 col-md-5 mt-xs-15 mt-sm-15 mt-lg-15 col-lg-auto px-0">
                     <div class="d-flex justify-content-center row mx-auto">
                       <a href="tel:4840529686" class="btn d-flex align-items-center shadow-sm fs-17 col-xs-9 justify-content-center fw-600 btn-info border-radius-20 px-20">
-                          <i class="fa fw-400 fa-phone-alt mr-2"></i> (48) 4052-9686
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-md-5 mt-xs-20 mt-sm-20 mt-lg-30 mx-lg-4 col-lg-auto px-0">
-                    <p class="mb-0 fw-500 mb-1 text-center">
-                      Baln. Camboriú
-                    </p>
-                    <div class="d-flex justify-content-center row mx-auto">
-                      <a href="tel:4740549497" class="btn d-flex align-items-center shadow-sm fs-17 col-xs-9 justify-content-center fw-600 btn-info border-radius-20 px-20">
-                          <i class="fa fw-400 fa-phone-alt mr-2"></i> (47) 4054-9497
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-md-5 mt-xs-20 mt-sm-20 mt-lg-30 col-lg-auto px-0">
-                    <p class="mb-0 fw-500 mb-1 text-center">
-                      Curitiba
-                    </p>
-                    <div class="d-flex justify-content-center row mx-auto">
-                      <a href="tel:4140638353" class="btn d-flex align-items-center shadow-sm fs-17 col-xs-9 justify-content-center fw-600 btn-info border-radius-20 px-20">
-                          <i class="fa fw-400 fa-phone-alt mr-2"></i> (41) 4063-8353
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-sm-6 col-md-5 mt-xs-20 mt-sm-20 mt-lg-30 col-lg-auto ml-lg-4 px-0">
-                    <p class="mb-0 fw-500 mb-1 text-center">
-                      Joaçaba
-                    </p>
-                    <div class="d-flex justify-content-center row mx-auto">
-                      <a href="tel:4932400973" class="btn d-flex align-items-center shadow-sm fs-17 col-xs-9 justify-content-center fw-600 btn-info border-radius-20 px-20">
-                          <i class="fa fw-400 fa-phone-alt mr-2"></i> (49) 3240-0973
+                          <i class="fa fw-400 fa-phone-alt mr-2"></i> +351 913 342 032
                       </a>
                     </div>
                   </div>
                 </div>
-                <div class="d-flex justify-content-center mt-50">
-                  <a href="mailto:contato@abraip.com.br" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fs-18 no-underline">
-                    <i class="fa fa-envelope fs-23 mr-2" /> contato@abraip.com.br
-                  </a>
+                <h3 class="d-flex align-items-center mt-70">
+                    <i class="fa fa-minus mr-3 fw-400 text-azul"></i> Email
+                </h3>
+                <div class="d-flex px-0 row mx-auto">
+                  <div class="col-sm-6 col-md-5 mt-xs-15 mt-sm-15 mt-lg-15 col-lg-auto px-0">
+                    <div class="d-flex justify-content-center row mx-auto">
+                      <a href="mailto:contato@abraip.com.br" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fs-18 no-underline">
+                        <i class="fa fa-envelope fs-23 mr-2" /> contacto@abraipdetectives.pt
+                      </a>
+                    </div>
+                  </div>
                 </div>
             </div>
         </div>

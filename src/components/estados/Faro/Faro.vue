@@ -161,7 +161,7 @@ export default {
     htmlAttrs: {
       lang: 'pt-BR'
     },
-    title: 'Detetive Particular em Balneário Camboriú | Florianópolis | Joinville  | Curitiba | Tubarão | Chapecó | Porto Alegre',
+    title: 'Detetive Particular em Faro | Porto | Évora  | Braga | Faro | Coimbra | Aveiro',
     meta: [{ name: 'description', content: 'Somos uma agência de detetives focada em casos empresarias, contra inteligência empresarial, varredura inteligente, verificação da conduta de sócios e/ou funcionários e muito mais!' }]
   }
 }
