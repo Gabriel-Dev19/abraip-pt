@@ -87,7 +87,7 @@
                                         <div class="align-self-end">
                                             <div>
                                                 <h6 class="fs-xs-13 fs-sm-15">
-                                                    Carregador de celular com câmera
+                                                    Carregador de telemóvel com câmera
                                                 </h6>
                                                 <h6 class="fs-13 mt-15">
                                                     Relevância: 90%
@@ -274,10 +274,10 @@
                         <div class="d-flex col-12 px-xs-0 align-items-stretch row mx-auto">
                             <div class="col-12 px-0">
                                 <h5 class="text-center">
-                                    Carregador de celular com câmera
+                                    Carregador de telemóvel com câmera
                                 </h5>
                                 <p class="fw-500 mt-3 text-center">
-                                    O carregador de celular disfarçado com câmera é perfeito
+                                    O carregador de telemóvel disfarçado com câmera é perfeito
                                     para a filmagem de ambientes como quartos, salas, e outros ambientes fechados.
                                     Quando colocado na parede ele serve de carregador, mas disfarçadamente está filmando todo
                                     o ambiente.

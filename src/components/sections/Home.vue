@@ -4,10 +4,10 @@
             <div class="container d-flex align-items-center justify-content-between mt-20">
                 <main class="col-lg-8 col-xl-7 px-0">
                     <h1 class="fw-600 text-light pr-xl-70 fs-xs-25">
-                        Detetives especializados em casos empresariais
+                        Detectives especializados em casos empresariais
                     </h1>
                     <p class="mb-0 mt-3 col-xl-11 pl-0 pr-xs-0 pr-sm-0 pr-xl-15 text-light fw-500">
-                        A ABRAIP detetives vem ao longo de mais de 25 anos sendo a principal
+                        A ABRAIP detectives vem ao longo de mais de 25 anos sendo a principal
                         solução para centenas de empresários que buscam por sanar dúvidas em
                         relação a seus funcionários e seus concorrentes.
                     </p>

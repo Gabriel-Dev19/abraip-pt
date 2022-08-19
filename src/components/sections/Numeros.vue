@@ -3,7 +3,7 @@
         <div id="numeros" v-scroll="ScrollNumeros" class="bg-azul mt-xs-100 mt-sm-120 py-70">
             <div class="container">
                 <h3 class="fw-600 mb-0 text-center">
-                    Para quem é indicado o trabalho de Detetive Particular no âmbito empresarial?
+                    Para quem é indicado o trabalho de Detective Privado no âmbito empresarial?
                 </h3>
                 <p class="fw-500 text-center fs-sm-17 mt-15">
                   Este tipo de trabalho é indicado para quando há suspeitas de desvios
@@ -16,10 +16,10 @@
                     Como funciona?
                 </h3>
                 <p class="fw-500 text-center fs-sm-17 mt-15">
-                  A ABRAIP Detetives realiza este trabalho através de monitorias na comunicação
-                  interna e colocação de um membro da nossa de detetives particulares dentro da empresa ser
+                  A ABRAIP Detectives realiza este trabalho através de monitorias na comunicação
+                  interna e colocação de um membro da nossa de detectives particulares dentro da empresa ser
                   favorecida. Para se protegerem dessas pessoas que tentam burlar as regras e descobrir segredos,
-                  as empresas contratam os serviços de contra espionagem dos detetives particulares.
+                  as empresas contratam os serviços de contra espionagem dos detectives particulares.
                 </p>
                 <h3 class="fw-600 text-center mb-0 mt-50">
                     Quais as principais técnicas utilizadas neste tipo trabalho?
@@ -38,7 +38,7 @@
                       <i class="fas fs-50 fa-people-carry"></i>
                     </div>
                     <h6 class="mt-3 text-center fw-600">
-                      Colocação de um profissional (Detetive Particular) dentro da empresa
+                      Colocação de um profissional (Detective Particular) dentro da empresa
                     </h6>
                   </div>
                   <div class="col-sm-7 col-md-6 col-lg-5 mt-xs-45 mt-sm-45 mt-xl-0 col-xl">
@@ -68,7 +68,7 @@
                         </h4>
                         <p class="mb-0 text-center fw-600 fs-15 mt-10">
                             Com mais de 25 anos de atuação na área, a
-                            ABRAIP Detetives já atendeu
+                            ABRAIP Detectives já atendeu
                             os mais variados clientes das mais variadas áreas de atuação.
                         </p>
                     </div>
@@ -101,7 +101,7 @@
                 <p class="text-center mt-xs-60 mt-sm-70 mt-xl-50 col-sm-10 px-0 mx-auto fw-600 fs-18">
                     Nosso compromisso para com sua nessessidade é absoluto, e estamos dispostos a
                     fazer o que for nessessário para que possamos solucionar seu problema, por isso
-                    pode confiar na ABRAIP Detetives para estar do seu lado
+                    pode confiar na ABRAIP Detectives para estar do seu lado
                     nesse momento.
                 </p>
                 <div class="d-flex justify-content-center row mx-auto mt-40">

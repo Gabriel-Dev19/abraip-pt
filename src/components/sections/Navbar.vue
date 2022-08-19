@@ -114,7 +114,7 @@
                                         </slide-up-down>
                                     </div>
                                     <a href="#contato" v-smooth-scroll="{duration: 500, offset: -30}" @click="HideNav" class="btn nav-link px-0 text-right fw-500 fs-19">
-                                        Contato
+                                        Contacto
                                     </a>
                                 </div>
                                 <button class="col-10 mx-auto btn text-white d-flex fw-500 justify-content-center align-items-center mt-35 border-radius-20 px-25 btn-whatsapp-navbar" @click.prevent="$root.$emit('ShowModalWhatsapp')">
@@ -246,7 +246,7 @@
                             </transition>
                         </div>
                         <a href="#contato" v-smooth-scroll="{duration: 500, offset: -70}" class="nav-link no-underline fs-19 fw-500" :class="{'text-preto-dark': !ShowLogoNomes, 'text-white': ShowLogoNomes}">
-                            Contato
+                            Contacto
                         </a>
                     </div>
                 </div>

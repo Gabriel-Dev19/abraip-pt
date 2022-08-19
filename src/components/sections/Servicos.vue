@@ -86,7 +86,7 @@
                               <i class="fa fa-minus mr-3 fw-400 text-azul"></i> Provas para advogados
                           </h4>
                           <p class="mb-0 fw-500 mt-xs-15 text-xs-center text-sm-center text-lg-left mt-sm-15">
-                              O trabalho da ABRAIP Detetives é tornar a verdade visível,
+                              O trabalho da ABRAIP Detectives é tornar a verdade visível,
                               <b>auxiliando os advogados na coleta de informações</b> como
                               <b>localização patrimônio, caracterização a ocultação de bens,
                               identificação fraudes e auxiliar com provas a justiça em ações
@@ -145,12 +145,12 @@
                         Mais de 60% dos casos vem de funcionários ou ex-funcionários. Sendo assim,
                         você está certo em ir atrás de informações concretas em relação as suas suspeitas.
                         Diante de possíveis atitudes desonestas, antes das emoções tomarem conta, é preciso
-                        uma decisão assertiva: contratar detetives experientes, ao ponto de sanar todas as
+                        uma decisão assertiva: contratar detectives experientes, ao ponto de sanar todas as
                         suas dúvidas. Afinal, em casos como esses, todo e qualquer dano deve ser evitado,
                         acima de tudo os que podem alcançar clientes e parceiros
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
-                        O trabalho do Detetive Particular para casos empresariais é direcionado desde pequenos
+                        O trabalho do Detective Privado para casos empresariais é direcionado desde pequenos
                         comércios até grandes corporações. E isso vale para objetos,
                         roubo de ideias, desvio de conduta de sócios e funcionários, entre outros. Sim, é
                         possível ter acesso a esse tipo de comportamento. Conhecido como espionagem industrial,
@@ -158,7 +158,7 @@
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
                         Alegar doença e até mesmo utilizar atestado médico para comprovar uma algo que não existe, também
-                        está entre os motivos pelos quais empresários contratam detetives particulares para zelar por seu negócio.
+                        está entre os motivos pelos quais empresários contratam detectives particulares para zelar por seu negócio.
                       </p>
                       <h5 class="fw-600 text-xs-center text-sm-center mt-4 text-lg-left fw-500">
                         Atuamos dentro do mais absoluto sigilo para proteger sua empresa contra:
@@ -174,7 +174,7 @@
                       </h5>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left mt-4 fw-500">
                         Por isso mesmo, temos de ser taxativos: se você precisa mesmo contratar
-                        um serviço de um detetive particular para cuidar de sua empresa, você precisa,
+                        um serviço de um detective privado para cuidar de sua empresa, você precisa,
                         antes de qualquer coisa, de uma empresa séria, que proporcionará a você
                         serviço com ética e qualidade profissional.
                       </p>
@@ -216,7 +216,7 @@
                         na gestão das companhias.
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
-                        A ABRAIP Detetives é considerada uma referência em inteligência e contra inteligência
+                        A ABRAIP Detectives é considerada uma referência em inteligência e contra inteligência
                         empresarial, pois utiliza o que há de mais avançado em tecnologia na detecção de fraudes.
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
@@ -258,7 +258,7 @@
                         detalhada da sua empresa e focamos nos pontos em que ela precisa ser melhorada.
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
-                        A ABRAIP Detetives tem a experiência e a vivência com casos empresariais a mais de 25
+                        A ABRAIP Detectives tem a experiência e a vivência com casos empresariais a mais de 25
                         anos, isso nos capacita a fazer uma inspeção detalhada da sua empresa e pontuar com clareza
                         aonde ela precisa melhorar e de que formas você pode fazer isso.
                       </p>
@@ -282,7 +282,7 @@
                             <i class="fa fa-minus mr-3 fw-400 text-azul"></i> Provas para advogados
                         </h4>
                         <p class="mb-0 fw-500 mt-xs-15 text-xs-center text-sm-center text-lg-left mt-sm-15">
-                            O trabalho da ABRAIP Detetives é tornar a verdade visível,
+                            O trabalho da ABRAIP Detectives é tornar a verdade visível,
                             <b>auxiliando os advogados na coleta de informações</b> como
                             <b>localização de patrimônio, caracterização a ocultação de bens,
                             identificação fraudes e auxiliar com provas a justiça em ações
@@ -300,11 +300,11 @@
                         <i class="fa fa-minus mr-3 fw-400 text-azul"></i> Mais informações
                       </h4>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500 mt-4">
-                        Os Detetives são contratados também por procuradores que precisam
+                        Os Detectives são contratados também por procuradores que precisam
                         de auxílio para reunir provas na atuação em defesas de seus clientes,
                         pois para dar entrada em uma ação judicial é de grande importância
                         que seus clientes tenham provas concretas em mãos e para se ter êxito
-                        em suas ações, essas provas depende dos serviços de um Detetive Particular.
+                        em suas ações, essas provas depende dos serviços de um Detective Particular.
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
                         Sendo assim, listamos abaixo exemplos de situações em que podemos
@@ -343,7 +343,7 @@
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center mb-2 text-lg-left fw-500">
                         <i class="fa fa-minus mr-1 fw-400 text-azul"></i>
-                        Localização e Confirmação de endereços para entrega de citações.
+                        Localização e Confirmação de moradas para entrega de citações.
                       </p>
                       <h4 class="d-flex mb-0 mr-xs-3 fs-xs-21 mt-50 fw-500 mr-sm-3 mr-lg-0 justify-content-xs-center justify-content-sm-center justify-content-lg-start align-items-center">
                         <i class="fa fa-minus mr-3 fw-400 text-azul"></i> Área empresarial

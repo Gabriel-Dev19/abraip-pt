@@ -103,13 +103,13 @@
                 </div>
                 <div class="col-12 px-0 d-flex justify-content-center row mx-auto mt-70">
                     <div class="col-lg-10 col-xl-9 px-0 text-center fw-500 fs-15">
-                        A ABRAIP DETETIVES é uma empresa que preza e respeita a privacidade e confidencialidade do
+                        A ABRAIP DETECTIVES é uma empresa que preza e respeita a privacidade e confidencialidade do
                         cliente. Constituída de acordo com a lei federal <a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13432.htm" target="_blank" rel="noopener noreferrer">13.432/2017</a>
                     </div>
                 </div>
                 <div class="col-12 px-0 d-flex justify-content-between row mx-auto mt-60">
                     <div class="col-lg-6 px-0 text-xs-center fs-15 fw-600 text-sm-center text-lg-left">
-                        &copy; 2021 - ABRAIP DETETIVES - Todos os direitos reservados
+                        &copy; 2021 - ABRAIP DETECTIVES - Todos os direitos reservados
                     </div>
                     <div class="col-lg-6 mt-xs-4 mt-sm-4 mt-lg-0 fw-600 px-0 text-xs-center text-sm-center fs-15 text-lg-right">
                         <a href="https://portfoliogabrieldev.000webhostapp.com/" class="no-underline d-flex align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-end" target="_blank">

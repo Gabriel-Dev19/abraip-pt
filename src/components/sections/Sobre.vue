@@ -7,13 +7,13 @@
                 interesse maior na <b>competição comercial</b>, utiliza-se dos mais variados meios,
                 muitas vezes <b>agindo de má fé</b>, e é nesse campo que se dissemina e prolifera
                 a <b>grande concorrência econômica / industrial.</b>
-                Visando a necessidade de profissionais privados nesta área a <b>ABRAIP Detetives
+                Visando a necessidade de profissionais privados nesta área a <b>ABRAIP Detectives
                 – Academia Brasileira de Inteligência Privada</b>, foi desenvolvida e estruturada a partir da especialização
                 de profissionais da área de <b>Inteligência empresarial</b>, tornou-se uma referência para empresas
                 e segmentos da sociedade em geral, que buscam uma forma de anular a ação de grupos
                 especializados. Nossa estrutura nos dá condições de implementar operações
                 de <b>Inteligência e Contra Inteligência</b> em qualquer setor.
-                A ABRAIP Detetives nasceu para apresentar uma solução aos problemas
+                A ABRAIP Detectives nasceu para apresentar uma solução aos problemas
                 de seus clientes, por meio de <b>provas reais que comprovem ou não as suspeitas</b>,
                 trabalhando no mais absoluto sigilo e ética profissional.
             </article>

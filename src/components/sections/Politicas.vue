@@ -4,8 +4,8 @@
             Políticas de Privacidade
         </h1>
         <p class="fw-500 text-center mt-4 col-lg-11 px-0 mx-auto fs-sm-17">
-           A sua privacidade é importante para nós. É política da ABRAIP Detetives respeitar a sua privacidade
-            em relação a qualquer informação sua que possamos coletar no site ABRAIP Detetives, e outros sites
+           A sua privacidade é importante para nós. É política da ABRAIP Detectives respeitar a sua privacidade
+            em relação a qualquer informação sua que possamos coletar no site ABRAIP Detectives, e outros sites
             que possuímos e operamos.
         </p>
         <p class="fw-500 text-center col-lg-11 px-0 mx-auto fs-sm-17">
@@ -24,7 +24,7 @@
            - Seus direitos em relação aos seus dados pessoais;
         </p>
         <p class="fw-500 text-center col-lg-11 px-0 mx-auto fs-sm-17">
-           - Como entrar em contato conosco.
+           - Como entrar em contacto conosco.
         </p>
         <p class="fw-500 text-center col-lg-11 px-0 mx-auto fs-sm-17">
            Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço.
@@ -99,7 +99,7 @@
             Compromisso do usuário
         </h2>
         <p class="fw-500 text-center mt-4 col-lg-11 px-0 mx-auto fs-sm-17">
-            O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o ABRAIP Detetives
+            O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o ABRAIP Detectives
             oferece no site e com caráter enunciativo, mas não limitativo:
         </p>
         <p class="fw-500 text-center col-lg-11 px-0 mx-auto fs-sm-17">
@@ -111,17 +111,17 @@
             ou contra os direitos humanos;
         </p>
         <p class="fw-500 text-center col-lg-11 px-0 mx-auto fs-sm-17">
-            <b>C)</b> Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do ABRAIP Detetives, de seus
+            <b>C)</b> Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do ABRAIP Detectives, de seus
             fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas
             de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
         </p>
         <h2 class="text-center fs-xs-25 mt-50 px-xs-4">
-            Como entrar em contato conosco
+            Como entrar em contacto conosco
         </h2>
         <p class="fw-500 text-center mt-4 col-lg-11 px-0 mx-auto fs-sm-17">
             Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados
-            pessoais que tratamos, entre em contato com nosso Analista de Proteção de Dados Pessoais,
-            através do e-mail: abraipdetetives@gmail.com
+            pessoais que tratamos, entre em contacto com nosso Analista de Proteção de Dados Pessoais,
+            através do e-mail: contacto@abraipdetectives.pt
         </p>
         <h2 class="text-center fs-xs-25 mt-50 px-xs-4">
             Mais informações

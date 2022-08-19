@@ -8,7 +8,7 @@
                 <div v-show="ShowMsgSuccessFloat" class="col-12 mensagem-flutuante">
                   <div class="col-12 px-0 d-flex justify-content-center">
                     <div class="py-1 bg-success d-flex align-items-center shadow fw-500 justify-content-between text-white col-xl-6 rounded">
-                      Mensagem enviada com sucesso, em breve entraremos em contato com você.
+                      Mensagem enviada com sucesso, em breve entraremos em contacto com você.
                       <button @click.prevent="CloseMsgSuccess" class="btn pr-0 d-flex justify-content-center align-items-center pt-0 pb-0">
                         <i class="fa fa-times text-white fs-20 fw-400"></i>
                       </button>
@@ -18,7 +18,7 @@
                 <form action="" @submit.prevent="submit" autocomplete="off" class="mt-60">
                     <div class="col-12 px-0 d-flex">
                        <div v-if="ShowMsgSuccess" class="bg-success py-1 d-inline-block rounded mb-30 shadow-sm text-white fs-15 px-3">
-                          Mensagem enviada com sucesso, em breve entraremos em contato com você.
+                          Mensagem enviada com sucesso, em breve entraremos em contacto com você.
                        </div>
                     </div>
                     <div class="d-flex row mx-auto">
@@ -53,10 +53,10 @@
                             </div>
                         </div>
                         <div class="form-group col-lg mt-lg-3 px-0 mx-lg-4">
-                            <label for="estado" class="ml-2 mb-1">Estado</label>
+                            <label for="estado" class="ml-2 mb-1">Distrito</label>
                             <input type="text" id="estado" class="form-control" v-model="estado">
                             <div class="error text-left px-2" v-show="ShowMsgError" v-if="$v.estado.$error">
-                                Preencha com seu estado
+                                Preencha com seu distrito
                             </div>
                         </div>
                         <div class="form-group col-lg mt-lg-3 px-0">
@@ -75,14 +75,14 @@
                     </div>
                     <div class="d-flex row mx-auto">
                         <div class="form-group col-lg mt-lg-3 px-0">
-                            <label for="horario_contato" class="ml-2 mb-1">Horário para contato</label>
+                            <label for="horario_contato" class="ml-2 mb-1">Horário para contacto</label>
                             <input type="text" id="horario_contato" class="form-control" v-model="horario">
                             <div class="error text-left px-2" v-show="ShowMsgError" v-if="$v.horario.$error">
                                 Coloque um horário para retorno
                             </div>
                         </div>
                         <div class="form-group col-lg mt-lg-3 px-0 ml-lg-4">
-                            <label for="data_contato" class="ml-2 mb-1">Data para contato</label>
+                            <label for="data_contato" class="ml-2 mb-1">Data para contacto</label>
                             <input type="text" id="data_contato" class="form-control" v-model="data_contato">
                             <div class="error text-left px-2" v-show="ShowMsgError" v-if="$v.data_contato.$error">
                                 Coloque uma data para retorno

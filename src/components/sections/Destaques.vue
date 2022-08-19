@@ -60,7 +60,7 @@
                 </div>
                 <p class="mt-10 fw-500 fs-15 text-xs-center text-sm-center text-xl-left">
                     Nossos métodos de trabalho serão acordados com o contratante.
-                    Afim de elaborar o plano e como será a ação dos nossos detetives.
+                    Afim de elaborar o plano e como será a ação dos nossos detectives.
                 </p>
             </div>
             <div class="col-lg-5 col-xl-4 mt-25 pl-xs-0 pl-sm-0 pl-xl-10 pr-0">
@@ -71,7 +71,7 @@
                     </h5>
                 </div>
                 <p class="mt-10 fw-500 fs-15 text-xs-center text-sm-center text-xl-left">
-                    Nossa equipe vai apresentar uma solução para o
+                    Nossa equipa vai apresentar uma solução para o
                     seu problema, por meio de provas reais (imagens, áudios e documentos) que comprovem ou não a suspeita.
                 </p>
             </div>
