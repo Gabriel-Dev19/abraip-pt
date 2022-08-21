@@ -138,7 +138,7 @@
                       </h4>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500 mt-4">
                         Se você chegou até aqui é porque você tem algo muito importante para zelar. Sua EMPRESA.
-                        Hoje no Brasil 70% das empresas brasileiras sofrem algum tipo de dano material causado
+                        Hoje em Portugal 70% das empresas portuguesas sofrem algum tipo de dano material causado
                         por funcionários e/ou sócios.
                       </p>
                       <p class="fs-sm-17 text-xs-center text-sm-center text-lg-left fw-500">
