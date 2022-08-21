@@ -48,7 +48,7 @@ export default {
   },
   methods: {
     Seixal () {
-      this.$router.push('/detetive-particular-em-Setubal/detetive-particular-em-Seixal')
+      this.$router.push('/detective-privado-em-Setubal/detective-privado-em-Seixal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -56,7 +56,7 @@ export default {
       })
     },
     Setubal () {
-      this.$router.push('/detetive-particular-em-Setubal/detetive-particular-em-Setubal')
+      this.$router.push('/detective-privado-em-Setubal/detective-privado-em-Setubal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

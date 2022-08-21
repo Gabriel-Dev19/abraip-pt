@@ -237,7 +237,7 @@ export default {
   },
   methods: {
     Alcobaca () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Alcobaca')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Alcobaca')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -245,7 +245,7 @@ export default {
       })
     },
     Alenquer () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Alenquer')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Alenquer')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -253,7 +253,7 @@ export default {
       })
     },
     Almada () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Almada')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Almada')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -261,7 +261,7 @@ export default {
       })
     },
     Amadora () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Amadora')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Amadora')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -269,7 +269,7 @@ export default {
       })
     },
     Barreiro () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Barreiro')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Barreiro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -277,7 +277,7 @@ export default {
       })
     },
     Cascaes () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Cascaes')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Cascaes')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -285,7 +285,7 @@ export default {
       })
     },
     Lisboa () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Lisboa')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Lisboa')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -293,7 +293,7 @@ export default {
       })
     },
     Loures () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Loures')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Loures')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -301,7 +301,7 @@ export default {
       })
     },
     Mafra () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Mafra')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Mafra')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -309,7 +309,7 @@ export default {
       })
     },
     Moita () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Moita')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Moita')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -317,7 +317,7 @@ export default {
       })
     },
     Montijo () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Montijo')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Montijo')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -325,7 +325,7 @@ export default {
       })
     },
     Odivelas () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Odivelas')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Odivelas')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -333,7 +333,7 @@ export default {
       })
     },
     Oeiras () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Oeiras')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Oeiras')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -341,7 +341,7 @@ export default {
       })
     },
     Palmela () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Palmela')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Palmela')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -349,7 +349,7 @@ export default {
       })
     },
     Santarem () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Santarem')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -357,7 +357,7 @@ export default {
       })
     },
     Sesimbra () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Sesimbra')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Sesimbra')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -365,7 +365,7 @@ export default {
       })
     },
     Setubal () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Setubal')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Setubal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -373,7 +373,7 @@ export default {
       })
     },
     Sintra () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Sintra')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Sintra')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -381,7 +381,7 @@ export default {
       })
     },
     TorresVedras () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Torres-Vedras')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Torres-Vedras')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -389,7 +389,7 @@ export default {
       })
     },
     VilaFrancaDeXira () {
-      this.$router.push('/detetive-particular-em-Lisboa/detetive-particular-em-Vila-Franca-de-Xira')
+      this.$router.push('/detective-privado-em-Lisboa/detective-privado-em-Vila-Franca-de-Xira')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

@@ -81,7 +81,7 @@ export default {
   },
   methods: {
     CaldasDaRainha () {
-      this.$router.push('/detetive-particular-em-Leiria/detetive-particular-em-Caldas-da-Rainha')
+      this.$router.push('/detective-privado-em-Leiria/detective-privado-em-Caldas-da-Rainha')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -89,7 +89,7 @@ export default {
       })
     },
     Leiria () {
-      this.$router.push('/detetive-particular-em-Leiria/detetive-particular-em-Leiria')
+      this.$router.push('/detective-privado-em-Leiria/detective-privado-em-Leiria')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -97,7 +97,7 @@ export default {
       })
     },
     Pombal () {
-      this.$router.push('/detetive-particular-em-Leiria/detetive-particular-em-Pombal')
+      this.$router.push('/detective-privado-em-Leiria/detective-privado-em-Pombal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

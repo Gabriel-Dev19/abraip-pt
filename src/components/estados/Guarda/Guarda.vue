@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     Guarda () {
-      this.$router.push('/detetive-particular-em-Guarda/detetive-particular-em-Guarda')
+      this.$router.push('/detective-privado-em-Guarda/detective-privado-em-Guarda')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

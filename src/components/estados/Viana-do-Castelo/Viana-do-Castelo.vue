@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     VianaDoCastelo () {
-      this.$router.push('/detetive-particular-em-Viana-do-Castelo/detetive-particular-em-Viana-do-Castelo')
+      this.$router.push('/detective-privado-em-Viana-do-Castelo/detective-privado-em-Viana-do-Castelo')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

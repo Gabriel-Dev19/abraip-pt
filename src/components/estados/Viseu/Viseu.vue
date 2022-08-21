@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     Viseu () {
-      this.$router.push('/detetive-particular-em-Viseu/detetive-particular-em-Viseu')
+      this.$router.push('/detective-privado-em-Viseu/detective-privado-em-Viseu')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

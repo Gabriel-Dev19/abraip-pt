@@ -117,7 +117,7 @@ export default {
   },
   methods: {
     Albufeira () {
-      this.$router.push('/detetive-particular-em-Faro/detetive-particular-em-Albufeira')
+      this.$router.push('/detective-privado-em-Faro/detective-privado-em-Albufeira')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -125,7 +125,7 @@ export default {
       })
     },
     Faro () {
-      this.$router.push('/detetive-particular-em-Faro/detetive-particular-em-Faro')
+      this.$router.push('/detective-privado-em-Faro/detective-privado-em-Faro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -133,7 +133,7 @@ export default {
       })
     },
     Loule () {
-      this.$router.push('/detetive-particular-em-Faro/detetive-particular-em-Loule')
+      this.$router.push('/detective-privado-em-Faro/detective-privado-em-Loule')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -141,7 +141,7 @@ export default {
       })
     },
     Olhao () {
-      this.$router.push('/detetive-particular-em-Faro/detetive-particular-em-Olhao')
+      this.$router.push('/detective-privado-em-Faro/detective-privado-em-Olhao')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -149,7 +149,7 @@ export default {
       })
     },
     Portimao () {
-      this.$router.push('/detetive-particular-em-Faro/detetive-particular-em-Portimao')
+      this.$router.push('/detective-privado-em-Faro/detective-privado-em-Portimao')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

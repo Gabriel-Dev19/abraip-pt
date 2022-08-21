@@ -105,7 +105,7 @@ export default {
   },
   methods: {
     Barcelos () {
-      this.$router.push('/detetive-particular-em-Braga/detetive-particular-em-Barcelos')
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Barcelos')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -113,7 +113,7 @@ export default {
       })
     },
     Braga () {
-      this.$router.push('/detetive-particular-em-Braga/detetive-particular-em-Braga')
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Braga')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -121,7 +121,7 @@ export default {
       })
     },
     Fafe () {
-      this.$router.push('/detetive-particular-em-Braga/detetive-particular-em-Fafe')
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Fafe')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -129,7 +129,7 @@ export default {
       })
     },
     Guimaraes () {
-      this.$router.push('/detetive-particular-em-Braga/detetive-particular-em-Guimaraes')
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Guimaraes')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -137,7 +137,7 @@ export default {
       })
     },
     VilaNovaDeFamalicao () {
-      this.$router.push('/detetive-particular-em-Braga/detetive-particular-em-Vila-Nova-de-Famalicao')
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Vila-Nova-de-Famalicao')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -145,7 +145,7 @@ export default {
       })
     },
     VilaVerde () {
-      this.$router.push('/detetive-particular-em-Braga/detetive-particular-em-Vila-Verde')
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Vila-Verde')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

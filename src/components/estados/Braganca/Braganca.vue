@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     Braganca () {
-      this.$router.push('/detetive-particular-em-Braganca/detetive-particular-em-Braganca')
+      this.$router.push('/detective-privado-em-Braganca/detective-privado-em-Braganca')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

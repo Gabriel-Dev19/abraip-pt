@@ -198,7 +198,7 @@ export default {
   },
   methods: {
     Amarante () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Amarante')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Amarante')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -206,7 +206,7 @@ export default {
       })
     },
     Felgueiras () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Felgueiras')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Felgueiras')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -214,7 +214,7 @@ export default {
       })
     },
     Gondomar () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Gondomar')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Gondomar')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -222,7 +222,7 @@ export default {
       })
     },
     Lousada () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Lousada')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Lousada')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -230,7 +230,7 @@ export default {
       })
     },
     Maia () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Maia')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Maia')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -238,7 +238,7 @@ export default {
       })
     },
     MarcoDeCanaveses () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Marco-de-Canaveses')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Marco-de-Canaveses')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -246,7 +246,7 @@ export default {
       })
     },
     Matosinhos () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Matosinhos')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Matosinhos')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -254,7 +254,7 @@ export default {
       })
     },
     PacosDeFerreira () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Pacos-de-Ferreira')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Pacos-de-Ferreira')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -262,7 +262,7 @@ export default {
       })
     },
     Paredes () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Paredes')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Paredes')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -270,7 +270,7 @@ export default {
       })
     },
     Porto () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Porto')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Porto')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -278,7 +278,7 @@ export default {
       })
     },
     Penafiel () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Penafiel')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Penafiel')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -286,7 +286,7 @@ export default {
       })
     },
     PovoaDeVarzim () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Povoa-de-Varzim')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Povoa-de-Varzim')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -294,7 +294,7 @@ export default {
       })
     },
     SantaMariaDeFeira () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Santa-Maria-de-Feira')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Santa-Maria-de-Feira')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -302,7 +302,7 @@ export default {
       })
     },
     SantoTirso () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Santo-Tirso')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Santo-Tirso')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -310,7 +310,7 @@ export default {
       })
     },
     Valongo () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Valongo')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Valongo')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -318,7 +318,7 @@ export default {
       })
     },
     VilaDoConde () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Vila-do-Conde')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Vila-do-Conde')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -326,7 +326,7 @@ export default {
       })
     },
     VilaNovaDeGaia () {
-      this.$router.push('/detetive-particular-em-Porto/detetive-particular-em-Vila-Nova-de-Gaia')
+      this.$router.push('/detective-privado-em-Porto/detective-privado-em-Vila-Nova-de-Gaia')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

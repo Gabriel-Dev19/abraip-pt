@@ -48,7 +48,7 @@ export default {
   },
   methods: {
     CasteloBranco () {
-      this.$router.push('/detetive-particular-em-Castelo-Branco/detetive-particular-em-Castelo-Branco')
+      this.$router.push('/detective-privado-em-Castelo-Branco/detective-privado-em-Castelo-Branco')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -56,7 +56,7 @@ export default {
       })
     },
     Covilha () {
-      this.$router.push('/detetive-particular-em-Castelo-branco/detetive-particular-em-Covilha')
+      this.$router.push('/detective-privado-em-Castelo-branco/detective-privado-em-Covilha')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

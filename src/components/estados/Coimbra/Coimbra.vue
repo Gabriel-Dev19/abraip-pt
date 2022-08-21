@@ -63,7 +63,7 @@ export default {
   },
   methods: {
     Coimbra () {
-      this.$router.push('/detetive-particular-em-Coimbra/detetive-particular-em-Coimbra')
+      this.$router.push('/detective-privado-em-Coimbra/detective-privado-em-Coimbra')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -71,7 +71,7 @@ export default {
       })
     },
     FigueiraDaFoz () {
-      this.$router.push('/detetive-particular-em-Coimbra/detetive-particular-em-Figueira-da-Foz')
+      this.$router.push('/detective-privado-em-Coimbra/detective-privado-em-Figueira-da-Foz')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

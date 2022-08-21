@@ -284,71 +284,71 @@ export default {
     },
     // <--------------- DISTRITOS --------------->
     Aveiro () {
-      this.$router.push('/detetive-particular-em-Aveiro')
+      this.$router.push('/detective-privado-em-Aveiro')
       this.HideNav()
     },
     Braga () {
-      this.$router.push('/detetive-particular-em-Braga')
+      this.$router.push('/detective-privado-em-Braga')
       this.HideNav()
     },
     Braganca () {
-      this.$router.push('/detetive-particular-em-Braganca')
+      this.$router.push('/detective-privado-em-Braganca')
       this.HideNav()
     },
     CasteloBranco () {
-      this.$router.push('/detetive-particular-em-Castelo-Branco')
+      this.$router.push('/detective-privado-em-Castelo-Branco')
       this.HideNav()
     },
     Coimbra () {
-      this.$router.push('/detetive-particular-em-Coimbra')
+      this.$router.push('/detective-privado-em-Coimbra')
       this.HideNav()
     },
     Evora () {
-      this.$router.push('/detetive-particular-em-Evora')
+      this.$router.push('/detective-privado-em-Evora')
       this.HideNav()
     },
     Faro () {
-      this.$router.push('/detetive-particular-em-Faro')
+      this.$router.push('/detective-privado-em-Faro')
       this.HideNav()
     },
     Guarda () {
-      this.$router.push('/detetive-particular-em-Guarda')
+      this.$router.push('/detective-privado-em-Guarda')
       this.HideNav()
     },
     Leiria () {
-      this.$router.push('/detetive-particular-em-Leiria')
+      this.$router.push('/detective-privado-em-Leiria')
       this.HideNav()
     },
     Lisboa () {
-      this.$router.push('/detetive-particular-em-Lisboa')
+      this.$router.push('/detective-privado-em-Lisboa')
       this.HideNav()
     },
     Portalegre () {
-      this.$router.push('/detetive-particular-em-Portalegre')
+      this.$router.push('/detective-privado-em-Portalegre')
       this.HideNav()
     },
     Porto () {
-      this.$router.push('/detetive-particular-em-Porto')
+      this.$router.push('/detective-privado-em-Porto')
       this.HideNav()
     },
     Santarem () {
-      this.$router.push('/detetive-particular-em-Santarem')
+      this.$router.push('/detective-privado-em-Santarem')
       this.HideNav()
     },
     Setubal () {
-      this.$router.push('/detetive-particular-em-Setubal')
+      this.$router.push('/detective-privado-em-Setubal')
       this.HideNav()
     },
     VianaDoCastelo () {
-      this.$router.push('/detetive-particular-em-Viana-do-Castelo')
+      this.$router.push('/detective-privado-em-Viana-do-Castelo')
       this.HideNav()
     },
     VilaReal () {
-      this.$router.push('/detetive-particular-em-Vila-Real')
+      this.$router.push('/detective-privado-em-Vila-Real')
       this.HideNav()
     },
     Viseu () {
-      this.$router.push('/detetive-particular-em-Viseu')
+      this.$router.push('/detective-privado-em-Viseu')
       this.HideNav()
     },
     // <--------------- DEMAIS PÁGINAS --------------->

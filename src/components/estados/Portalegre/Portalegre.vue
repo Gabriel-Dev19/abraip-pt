@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     Portalegre () {
-      this.$router.push('/detetive-particular-em-Portalegre/detetive-particular-em-Portalegre')
+      this.$router.push('/detective-privado-em-Portalegre/detective-privado-em-Portalegre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

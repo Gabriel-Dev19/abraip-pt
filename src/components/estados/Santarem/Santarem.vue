@@ -63,7 +63,7 @@ export default {
   },
   methods: {
     Ourem () {
-      this.$router.push('/detetive-particular-em-Santarem/detetive-particular-em-Ourem')
+      this.$router.push('/detective-privado-em-Santarem/detective-privado-em-Ourem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -71,7 +71,7 @@ export default {
       })
     },
     Santarem () {
-      this.$router.push('/detetive-particular-em-Santarem/detetive-particular-em-Santarem')
+      this.$router.push('/detective-privado-em-Santarem/detective-privado-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

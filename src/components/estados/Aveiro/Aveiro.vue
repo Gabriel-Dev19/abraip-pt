@@ -69,7 +69,7 @@ export default {
   },
   methods: {
     Agueda () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Agueda')
+      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Agueda')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -77,7 +77,7 @@ export default {
       })
     },
     Aveiro () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Aveiro')
+      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Aveiro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -85,7 +85,7 @@ export default {
       })
     },
     OliveiraDeAzemeis () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Oliveira-de-Azemeis')
+      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Oliveira-de-Azemeis')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -93,7 +93,7 @@ export default {
       })
     },
     Ovar () {
-      this.$router.push('/detetive-particular-em-Aveiro/detetive-particular-em-Ovar')
+      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Ovar')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

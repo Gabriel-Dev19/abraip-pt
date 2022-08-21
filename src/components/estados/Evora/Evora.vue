@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     Evora () {
-      this.$router.push('/detetive-particular-em-Evora/detetive-particular-em-Evora')
+      this.$router.push('/detective-privado-em-Evora/detective-privado-em-Evora')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
