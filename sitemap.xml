@@ -1,4 +1,7 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Aveiro</loc>
   </url>
@@ -50,7 +53,6 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Viseu</loc>
   </url>
- <!-- CIDADES AVEIRO -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Aveiro/detective-privado-em-Agueda</loc>
   </url>
@@ -63,7 +65,6 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Aveiro/detective-privado-em-Ovar</loc>
   </url>
-  <!-- CIDADES BRAGA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Braga/detective-privado-em-Barcelos</loc>
   </url>
@@ -82,29 +83,24 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Braga/detective-privado-em-Vila-Verde</loc>
   </url>
-  <!-- CIDADES BRAGANÇA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Braganca/detective-privado-em-Braganca</loc>
   </url>
-  <!-- CIDADES CASTELO BRANCO -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Castelo-Branco/detective-privado-em-Castelo-Branco</loc>
   </url>
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Castelo-Branco/detective-privado-em-Covilha</loc>
   </url>
-  <!-- CIDADES COIMBRA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Coimbra/detective-privado-em-Coimbra</loc>
   </url>
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Coimbra/detective-privado-em-Figueira-da-Foz</loc>
   </url>
-  <!-- CIDADES ÉVORA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Evora/detective-privado-em-Evora</loc>
   </url>
-  <!-- CIDADES FARO -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Faro/detective-privado-em-Albufeira</loc>
   </url>
@@ -120,11 +116,9 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Faro/detective-privado-em-Portimao</loc>
   </url>
-  <!-- CIDADES GUARDA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Guarda/detective-privado-em-Guarda</loc>
   </url>
-  <!-- CIDADES LEIRIA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Leiria/detective-privado-em-Caldas-da-Rainha</loc>
   </url>
@@ -134,7 +128,6 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Leiria/detective-privado-em-Pombal</loc>
   </url>
-  <!-- CIDADES LISBOA -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Lisboa/detective-privado-em-Alcobaca</loc>
   </url>
@@ -195,11 +188,9 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Lisboa/detective-privado-em-Vila-Franca-de-Xira</loc>
   </url>
-  <!-- CIDADES PORTALEGRE -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Portalegre/detective-privado-em-Portalegre</loc>
   </url>
-  <!-- CIDADES PORTO -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Porto/detective-privado-em-Amarantes</loc>
   </url>
@@ -251,29 +242,24 @@
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Porto/detective-privado-em-Vila-Nova-de-Gaia</loc>
   </url>
-  <!-- CIDADES SANTARÉM -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Santarem/detective-privado-em-Ourem</loc>
   </url>
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Santarem/detective-privado-em-Santarem</loc>
   </url>
-  <!-- CIDADES SETÚBAL -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Setubal/detective-privado-em-Seixal</loc>
   </url>
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Setubal/detective-privado-em-Setubal</loc>
   </url>
-  <!-- CIDADES VIANA DO CASTELO -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Viana-do-Castelo/detective-privado-em-Viana-do-Castelo</loc>
   </url>
-  <!-- CIDADES VILA REAL -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Vila-Real/detective-privado-em-Vila-Real</loc>
   </url>
-  <!-- CIDADES VISEU -->
   <url>
     <loc>https://abraipdetectives.pt/detective-privado-em-Viseu/detective-privado-em-Viseu</loc>
   </url>
