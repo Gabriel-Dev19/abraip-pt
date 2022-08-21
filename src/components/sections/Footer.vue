@@ -8,7 +8,7 @@
                     </h6>
                     <div>
                         <a href="#servicos" v-smooth-scroll="{duration: 500, offset: -70}" @click.prevent="InvestigacaoEmpresarial" class="col-12 no-underline fw-600 mt-3 d-flex align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0">
-                            <i class="fa fa-angle-right fw-400 mr-2 fs-18"></i> Casos empresarial
+                            <i class="fa fa-angle-right fw-400 mr-2 fs-18"></i> Casos empresariais
                         </a>
                         <a href="#servicos" v-smooth-scroll="{duration: 500, offset: -70}" @click.prevent="ContraInteligencia" class="col-12 no-underline fw-600 mt-2 d-flex align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0">
                             <i class="fa fa-angle-right fw-400 mr-2 fs-18"></i> Contra inteligência

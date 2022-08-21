@@ -415,7 +415,7 @@ export default {
   },
   created () {
     this.$root.$on('MudancaInvestigacaoEmpresarial', () => {
-      this.TituloServicos = 'Casos Empresarial'
+      this.TituloServicos = 'Casos empresariais'
       setTimeout(() => {
         this.ShowInvestigacaoEmpresarial = true
       }, 500)

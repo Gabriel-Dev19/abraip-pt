@@ -63,7 +63,7 @@
                             <label for="tipo_servico" class="ml-2 mb-1">Tipo de servico</label>
                             <select id="tipo_servico" class="form-control" v-model="tipo_servico">
                                 <option value="" disabled selected class="d-none">...</option>
-                                <option value="Casos empresarial">Casos empresarial</option>
+                                <option value="Casos empresariais">Casos empresariais</option>
                                 <option value="Contra inteligência">Contra inteligência</option>
                                 <option value="Consultoria em segurança">Consultoria em segurança</option>
                                 <option value="Provas para advogados">Provas para advogados</option>
